@@ -1,0 +1,53 @@
+
+.App {
+  text-align: start;
+  font-family: 'Arial', sans-serif;
+  padding: 20px;
+}
+
+h2 {
+  color: #df0f0f;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.puppy {
+  cursor: pointer;
+  background-color: #800f0f;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.puppy:hover {
+  background-color: #2c2121;
+}
+
+.featured {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #5a0808;
+  border-radius: 10px;
+  background-color: #971818;
+}
+
+
+.list-item {
+  color: #ff0000; 
+  background-color: #00ff00; 
+  cursor: pointer; 
+}
+
+
+.featured-content {
+  color: #0000ff; 
+  background-color: #ffff00; 
+}
